@@ -1,4 +1,5 @@
 // Java program to demonstrate BufferedReader
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -16,3 +17,9 @@ public class Test {
         System.out.println(name);
     }
 }
+
+//SAMPLE OUTPUT
+/*
+Mathew
+Mathew
+*/
